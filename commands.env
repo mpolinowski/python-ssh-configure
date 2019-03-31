@@ -1,0 +1,2 @@
+yum update -y
+reboot
